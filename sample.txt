@@ -1,0 +1,3 @@
+This is the just a file to check various options in GIT process.
+
+Added second line.
