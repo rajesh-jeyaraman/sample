@@ -2,5 +2,5 @@ This is the just a file to check various options in GIT process.
 
 Added second line.
 
-Modification for branch 1.
+Modification for branch .
 
